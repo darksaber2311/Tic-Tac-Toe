@@ -2,6 +2,8 @@
 
 A classic Tic-Tac-Toe game built with HTML5 Canvas and vanilla JavaScript. Play against a Computer opponent with smooth animations and visual feedback.
 
+Project Live at : https://darksaber2311.github.io/Tic-Tac-Toe/
+
 ## 🎮 Features
 
 - **Player vs Computer**: Play against a computer opponent
